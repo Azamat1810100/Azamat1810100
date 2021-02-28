@@ -1,0 +1,36 @@
+body {
+    background: silver;
+}
+.main {
+    margin: 0;
+    padding: 5em;
+}
+
+.main--title{
+    padding: 20px;
+    color: yellow;
+    background: red;
+}
+
+.main__blocks {
+    margin: 20px 0;
+}
+
+.main__block {
+    padding: 30 20px;
+    text-align: center;
+}
+
+.main__block .main__block--title {
+    color: purple;
+}
+
+.main__block .main__block--bold {
+    font-weight: 700;
+    font-size: 18px;
+    color: black;
+}
+
+.main__block b {
+    color: black;
+}
